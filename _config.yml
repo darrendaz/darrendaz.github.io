@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: darren.lou@gmail.com
 copyright_name: darren l
 description: > # this means to ignore newlines until "baseurl:"
-  breaking...fixing...
+  breaking...fixing...learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: _darrenlou
 github_username:  darrendaz
