@@ -1,13 +1,13 @@
 ---
 layout: post
-title:      "Beginner: Regular Expressions aka Regex"
-date:       2019-03-13 01:42:55 +0000
+title:      "Flatiron Week 1 #"
+date:       2019-03-12 21:42:56 -0400
 permalink:  beginner_regular_expressions_aka_regex
 ---
 
-
-
-
+*March 2019*
+## Beginner: Regular Expressions aka Regex
+</br>
 Helpful Links:
 
 * https://regexone.com/ « Highly recommend going through all these lessons to learn regex syntax and usage.
