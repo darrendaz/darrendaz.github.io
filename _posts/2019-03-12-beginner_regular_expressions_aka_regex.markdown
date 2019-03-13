@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Flatiron Week 1 #"
+title:      "Flatiron Week 1"
 date:       2019-03-12 21:42:56 -0400
 permalink:  beginner_regular_expressions_aka_regex
 ---
