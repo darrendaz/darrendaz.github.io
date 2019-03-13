@@ -6,7 +6,7 @@ permalink:  beginner_regular_expressions_aka_regex
 ---
 
 ## Beginner: Regular Expressions aka Regex
-</br>
+
 Helpful Links:
 
 * [https://regexone.com/](https://regexone.com/) « Highly recommend going through all these lessons to learn regex syntax and usage.
