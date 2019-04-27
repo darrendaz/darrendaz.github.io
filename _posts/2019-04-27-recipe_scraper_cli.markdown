@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Recipe Scraper CLI"
-date:       2019-04-27 20:41:44 +0000
+date:       2019-04-27 16:41:45 -0400
 permalink:  recipe_scraper_cli
 ---
 
