@@ -16,7 +16,7 @@ Ruby object to receive and store all the data in memory from the scrape
 
 I thought the best place for me to start scraping would be the [Search](https://cooking.nytimes.com/search) page since it was essentially a grid of all the recipes published. BUT then I got hit with my first challenge.
 
-# > I have to figure out a way to scrape every page of the serach results because they only display 48 items at a time and there are 19,000+ recipes 😱
+> I have to figure out a way to scrape every page of the serach results because they only display 48 items at a time and there are 19,000+ recipes 😱
 
 ## My Solution:
 ```
