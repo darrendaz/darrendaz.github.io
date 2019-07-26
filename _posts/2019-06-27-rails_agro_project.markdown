@@ -196,7 +196,7 @@ end
 
 I checked that my associations were all working by running various commands in rails console with `rails c` . These commands were based on user tasks and expected data in views.
 
-### 5. RESTful CRUD routes
+### 6. RESTful CRUD routes
 
 The routes for this app are manageable and not too complex. I know this is not a comprehensive set of routes and redirects, but for the purposes of building the minimal viable product, the routes are okay for the short term.
 
@@ -230,7 +230,7 @@ Rails.application.routes.draw do
 end
 ```
 
-### 6. Controllers, views, and forms. Refactoring to use partials.
+### 7. Controllers, views, and forms. Refactoring to use partials.
 
 Building the controllers and forms was a lot of fun and I it taught me where to look out for pitfalls in future projects. I also started using partials for my forms and I really like using them to stay DRY.
 
@@ -250,7 +250,7 @@ Building the controllers and forms was a lot of fun and I it taught me where to 
   <%= render partial: "form", locals: {f: form}%> <small><%=link_to "Cancel", user_path(current_user) %></small>
 ```
 
-### 7. Validation
+### 8. Validation
 
 I added validation on new and edit forms for gardens and plants toward the end of the project. 
 
