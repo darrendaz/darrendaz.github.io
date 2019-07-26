@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Rails Agro Project + JavaScript - Part 2"
+title:      "Rails Agro Project w/ JavaScript - Part 2"
 date:       2019-07-25 22:30:50 -0400
 permalink:  rails_agro_project_javascript
 ---
