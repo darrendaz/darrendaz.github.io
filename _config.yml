@@ -1,11 +1,11 @@
 # Site settings
-author: darren l
-title: daz 🙃
+author: Darren Lou
+title: Daz Code
 header-img: img/home-bg.png
 email: darren.lou@gmail.com
-copyright_name: darren l
+copyright_name: Darren Lou
 description: > # this means to ignore newlines until "baseurl:"
-  breaking...fixing...learning
+  UX Designer learning code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: _darrenlou
 github_username:  darrendaz
