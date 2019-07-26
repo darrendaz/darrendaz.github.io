@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Rails Agro Project"
+title:      "Rails Agro Project - Part 1"
 date:       2019-06-27 11:56:14 -0400
 permalink:  rails_agro_project
 ---
@@ -22,7 +22,7 @@ gem 'pry'
 gem 'omniauth-github'
 ```
 
-### 3. Devise for user login features, omniauth, and user authentication.
+### 2. Devise for user login features, omniauth, and user authentication.
 
 I followed [this very helpful guide](https://medium.com/@salmaeng71/devise-authentication-guide-with-github-omniauth-for-rails-application-220aa52d5b82) to get devise wired up with my user model and ended up with the below in my `schema.rb` for the users table.
 
@@ -48,7 +48,7 @@ I followed [this very helpful guide](https://medium.com/@salmaeng71/devise-authe
   end
 ```
 
-### 2. Set up database tables and fields for app models (Users, Gardens, Plants, Comments).
+### 3. Set up database tables and fields for app models (Users, Gardens, Plants, Comments).
 
 The next thing I needed to do was figure out the rest of my data architecture and relationships. Initially I thought about having just Users, Gardens, and Plants, but decided to add comments to use as a join table with user submittable fields. 
 
